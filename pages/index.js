@@ -10,6 +10,7 @@ const Index = () => {
   return (
     <Wrapper>
       <p>Hello world</p>
+      <p>this is a new tutorial.</p>
     </Wrapper>
   );
 };
